@@ -11,3 +11,12 @@ else:
         factorial = factorial*i
     print("the fact of",num,"is",factorial)
     
+    
+  #addition
+  a=int(input("enter number " ))
+b=int(input("enter number " ))
+print("addition=",a+b)
+print("subtraction=",a-b)
+print("multiply=",a*b)
+print("divide=",a/b)
+    
