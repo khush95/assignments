@@ -19,4 +19,11 @@ print("addition=",a+b)
 print("subtraction=",a-b)
 print("multiply=",a*b)
 print("divide=",a/b)
+
+#pattern 1
+for i in range(5):
+    for j in range(5):
+        if j<=i:
+            print("*",end=" ")
+    print("\r")
     
